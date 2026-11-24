@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
+#include <string.h>
 #include "platform_os.h"
 
 static const char* LOG_FILE_PATH = "lab3.log";
